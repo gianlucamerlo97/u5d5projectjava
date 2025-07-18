@@ -1,4 +1,4 @@
-package gianlucamerlo.u5d5project.entities;
+package gianlucamerlo.u5d5projectjava.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
